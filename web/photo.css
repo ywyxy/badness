@@ -1,0 +1,22 @@
+img{
+	max-width: 40%;
+}
+
+====================
+#guide{
+	height: 20px;
+	width: 350px;
+	margin:0 auto;
+	margin-top: 1%;
+}
+hr{
+	margin-top: 3%;
+}
+#guide p{
+	text-align: center;
+}
+#guide a{
+	text-decoration: none;
+	color: dimgrey;
+	font-size: 15px;	
+}

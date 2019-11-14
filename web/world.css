@@ -1,0 +1,29 @@
+#i img{
+	float: left;
+	margin-left: 13%;
+}
+#u img{
+	float: right;
+	margin-right: 13%;
+}
+img{
+	max-width: 30%;
+}
+
+#guide{
+	height: 20px;
+	width: 350px;
+	margin:0 auto;
+	margin-top: 1%;
+}
+hr{
+	margin-top: 10%;
+}
+#guide p{
+	text-align: center;
+}
+#guide a{
+	text-decoration: none;
+	color: palevioletred;
+	font-size: 15px;	
+}

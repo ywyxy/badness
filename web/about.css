@@ -1,0 +1,22 @@
+p{
+	text-align: center;
+	margin-top: 3%;
+}
+
+#guide{
+	height: 20px;
+	width: 350px;
+	margin:0 auto;
+	margin-top: 1%;
+}
+hr{
+	margin-top: 3%;
+}
+#guide p{
+	text-align: center;
+}
+#guide a{
+	text-decoration: none;
+	color: gainsboro;
+	font-size: 15px;	
+}
